@@ -8,14 +8,14 @@
 
 import React, { Component } from 'react';
 import {
-  FlatList,
   Image,
-  Linking,
-  ScrollView,
-  StyleSheet,
   Text,
-  TouchableOpacity,
   View,
+  ScrollView,
+  FlatList,
+  StyleSheet,
+  TouchableOpacity,
+  Linking,
 } from 'react-native';
 
 const data_json = require('./Info.json');
